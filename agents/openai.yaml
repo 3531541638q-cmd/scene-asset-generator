@@ -1,0 +1,4 @@
+interface:
+  display_name: "你健哥的场景生成器"
+  short_description: "出图前确认同机位或新机位，生成场景主图后可选九视图与编号提取"
+  default_prompt: "使用 $scene-asset-generator，有参考图时生成前先问我是否同机位，主图完成后询问是否需要多机位九视图。"
